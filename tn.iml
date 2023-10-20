@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Magasin" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.magasin" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produit" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.produit" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Employe" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.employe" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produitt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/TEST" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
