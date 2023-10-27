@@ -6,6 +6,13 @@ public  class Mall{
     String m_sVille ;
     int  m_inbEtages ;
 
+    public Mall(String m_sMall, int m_id, String m_sVille, int m_inbEtages) {
+        this.m_sMall = m_sMall;
+        this.m_id = m_id;
+        this.m_sVille = m_sVille;
+        this.m_inbEtages = m_inbEtages;
+    }
+
     public String getM_sMall() {
         return m_sMall;
     }
