@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Magasin" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.magasin" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produit" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.produit" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/gestville" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.gestville" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Employe" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.employe" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produitt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/TEST" isTestSource="false" />
