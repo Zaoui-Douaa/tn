@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Magasin" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.magasin" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/GestMall" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.GestMall" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produit" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.produit" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Employe" isTestSource="false" packagePrefix="tn.tuniprob.gestionmagasin.employe" />
       <sourceFolder url="file://$MODULE_DIR$/tuniprob/gestionmagasin/Produitt" isTestSource="false" />

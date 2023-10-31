@@ -6,6 +6,8 @@ import tn.tuniprob.gestionmagasin.employe.Vendeur;
 import tn.tuniprob.gestionmagasin.produit.Produit;
 import tn.tuniprob.gestionmagasin.magasin.Magasin;
 
+import tn.tuniprob.gestionmagasin.GestMall.Mall;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -117,8 +119,15 @@ public class Main {
         magasin1.afficherParType();
         System.out.println("Pour "+ magasin2.getNom());
         magasin2.afficherParType();
-    String str="abc";
-    System.out.println(str.equals(responsable1));
+        String str="abc";
+        System.out.println(str.equals(responsable1));
         System.out.println("Les Employees " + Caissier1.getNom() + " et " + Caissier2.getNom() +" sont-ils éqaux? "+ Caissier1.equals(Caissier2));
+
+        TunisiaMall tunisiaMall = new TunisiaMall();
+        tunisiaMall.useMallPropertiesAndMethods();
+
+
     }
+
+
 }
